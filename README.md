@@ -2,7 +2,7 @@
   
 [![GitHub stars](https://img.shields.io/github/stars/Code-with-Bismillah/Algorithms-for-DNA-Sequencing-Programming-Homework-3.svg?style=flat-square)](https:/mubashir1837/github.com//Algorithms-for-DNA-Sequencing-Programming-Homework-3/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/mubashir1837/Algorithms-for-DNA-Sequencing-Programming-Homework-3.svg?style=flat-square)](https://github.com/mubashir1837/Algorithms-for-DNA-Sequencing-Programming-Homework-3/network)
-[![GitHub license](https://img.shields.io/github/license/Code-with-Bismillah/Algorithms-for-DNA-Sequencing-Programming-Homework-3.svg?style=flat-square)](https://github.com/mubashir1837/Algorithms-for-DNA-Sequencing-Programming-Homework-3/blob/main/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/mubashir1837/Algorithms-for-DNA-Sequencing-Programming-Homework-3.svg?style=flat-square)](https://github.com/mubashir1837/Algorithms-for-DNA-Sequencing-Programming-Homework-3/blob/main/LICENSE)
 
 ## Overview
 
