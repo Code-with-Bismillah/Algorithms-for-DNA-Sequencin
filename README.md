@@ -1,8 +1,8 @@
 # Algorithms-for-DNA-Sequencing-Programming-Homework-3
   
-[![GitHub stars](https://img.shields.io/github/stars/Code-with-Bismillah/Algorithms-for-DNA-Sequencing-Programming-Homework-3.svg?style=flat-square)](https://github.com/Code-with-Bismillah/Algorithms-for-DNA-Sequencing-Programming-Homework-3/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/Code-with-Bismillah/Algorithms-for-DNA-Sequencing-Programming-Homework-3.svg?style=flat-square)](https:/mubashir1837/github.com//Algorithms-for-DNA-Sequencing-Programming-Homework-3/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/mubashir1837/Algorithms-for-DNA-Sequencing-Programming-Homework-3.svg?style=flat-square)](https://github.com/mubashir1837/Algorithms-for-DNA-Sequencing-Programming-Homework-3/network)
-[![GitHub license](https://img.shields.io/github/license/Code-with-Bismillah/Algorithms-for-DNA-Sequencing-Programming-Homework-3.svg?style=flat-square)](https://github.com/Code-with-Bismillah/Algorithms-for-DNA-Sequencing-Programming-Homework-3/blob/main/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/Code-with-Bismillah/Algorithms-for-DNA-Sequencing-Programming-Homework-3.svg?style=flat-square)](https://github.com/mubashir1837/Algorithms-for-DNA-Sequencing-Programming-Homework-3/blob/main/LICENSE)
 
 ## Overview
 
@@ -26,7 +26,7 @@ This repository contains solutions and implementations for Programming Homework 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Code-with-Bismillah/Algorithms-for-DNA-Sequencing-Programming-Homework-3.git
+   git clone https://github.com/mubashir1837/Algorithms-for-DNA-Sequencing-Programming-Homework-3.git
    cd Algorithms-for-DNA-Sequencing-Programming-Homework-3
    ```
 
@@ -36,7 +36,11 @@ This repository contains solutions and implementations for Programming Homework 
    ```
 
 3. **Run the code:**
-   - Follow instructions in the respective Python files or Jupyter notebooks.
+   
+      ```bash
+   python src/main.py
+   python src/min_edit_distance.py
+   ```
 
 ## Algorithms Implemented
 
