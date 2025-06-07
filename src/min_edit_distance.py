@@ -1,4 +1,3 @@
-# Compute minimum edit distance between a pattern and all reads in a FASTQ file
 from parser import read_fastq
 
 def edit_distance(s1, s2):
