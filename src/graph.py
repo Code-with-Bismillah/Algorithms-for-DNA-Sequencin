@@ -1,5 +1,3 @@
-# src/graph.py
-
 from overlap import overlap
 
 def build_kmer_dict(reads, k):
