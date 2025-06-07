@@ -55,7 +55,7 @@ Refer to the `notebooks/` directory for step-by-step tutorials and example runs.
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/mubashir1837/Algorithms-for-DNA-Sequencing-Programming-Homework-3/blob/main/LICENSE) file for details.
 
 ## Contributing
 
