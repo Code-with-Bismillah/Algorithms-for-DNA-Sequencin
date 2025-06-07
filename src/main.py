@@ -1,5 +1,3 @@
-# src/main.py
-
 from parser import read_fastq
 from graph import build_overlap_graph
 
