@@ -1,5 +1,3 @@
-# src/overlap.py
-
 def overlap(a, b, min_length=3):
     """Return length of longest suffix of 'a' matching prefix of 'b'."""
     start = 0
